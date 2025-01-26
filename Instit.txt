@@ -1,0 +1,6 @@
+"Indian Institute of Technology Madras"
+"Indian Institute of TechnologyBombay"
+"Indian Institute of TechnologyKharagpur"
+"National Institute of Technology Trichy"
+"National Institute of Technology Surathkal"
+"National Institute of Technology Rourkela"
